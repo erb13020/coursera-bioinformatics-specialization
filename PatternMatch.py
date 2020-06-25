@@ -3,7 +3,7 @@
 # Input: Strings Pattern and Genome.
 # Output: All starting positions in Genome where Pattern appears as a substring.
 
-def patternMatch(pattern, genome):
+def patternMatch(genome, pattern):
     match_index = []
     end = len(pattern)
     for start in range(len(genome)):
