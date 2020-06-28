@@ -1,4 +1,5 @@
-import PatternCount as pc
+from lib import PatternCount as pc
+
 
 #Solve the Frequent Words Problem
 #Input: A string Text and an integer k

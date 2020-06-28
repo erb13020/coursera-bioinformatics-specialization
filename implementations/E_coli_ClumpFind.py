@@ -1,7 +1,6 @@
 #Implement the ClumpFind algorithm on the genome of E Coli
 
-import FrequentWords as fw
-import PatternMatch as pm
+from lib import PatternMatch as pm, FrequentWords as fw
 import time
 
 e_coli_genome = 'resources/E_coli.txt'

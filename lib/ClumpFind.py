@@ -2,8 +2,8 @@
 #      Input: A string Genome, and integers k, L, and t.
 #      Output: All distinct k-mers forming (L, t)-clumps in Genome.
 
-import FrequentWords as fw
-import PatternMatch as pm
+from lib import PatternMatch as pm, FrequentWords as fw
+
 
 def clumpFind(genome, k, L, t):
     results = []
