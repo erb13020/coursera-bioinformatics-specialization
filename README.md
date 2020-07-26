@@ -21,5 +21,6 @@ Python 3 code implementations of the bioinformatics algorithms presented in Cour
 | Skew                         | skew(genome)                                   | A string genome                                     | An array containing the skew from 5' to 3'                                                                   |
 | Minimum Skew                 | minimumSkew(genome)                            | A string genome                                     | An array containing all integer(s) i minimizing Skewi (Genome) among all values of i (from 0 to len(Genome)) |
 | Hamming Distance             | hammingDistance(s1, s2)                        | Two strings of equal length.                        | The Hamming distance between these strings.                                                                  |
-| Approximate Pattern Matching | approximatePatternMatching(pattern, genome, d) | Strings pattern and genome along with an integer d. | All starting positions where pattern appears as a substring of genome with at most d mismatches.               |
+| Approximate Pattern Matching | approximatePatternMatching(pattern, genome, d) | Strings pattern and genome along with an integer d. | All starting positions where pattern appears as a substring of genome with at most d mismatches.             |
+| Approximate Pattern Coun     | approximatePatternCount(pattern, genome, d)    | Strings pattern and genome along with an integer d. | Output: Count(Text, Pattern) with at most d mismatches.                                                      |
 
