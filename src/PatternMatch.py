@@ -1,9 +1,11 @@
-# Pattern Matching Problem: Find all occurrences of a pattern in a string.
-#
-# Input: Strings Pattern and Genome.
-# Output: All starting positions in Genome where Pattern appears as a substring.
-
 def patternMatch(genome, pattern):
+    '''
+    Pattern Matching Problem: Find all occurrences of a pattern in a string.
+
+    Input: Strings Pattern and Genome.
+
+    Output: All starting positions in Genome where Pattern appears as a substring.
+    '''
     match_index = []
     end = len(pattern)
     for start in range(len(genome)):

@@ -1,6 +1,6 @@
 #Implement patternMatch algorithm on the genome of vibrio cholerae
 
-from lib import PatternMatch as pm
+from src import PatternMatch as pm
 
 vibrio_genome = 'resources/Vibrio_cholerae.txt'
 
