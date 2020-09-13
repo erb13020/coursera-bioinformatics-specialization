@@ -1,14 +1,6 @@
 # coursera-bioinformatics-specialization
 Python 3 code implementations of the bioinformatics algorithms presented in Coursera's Bioinformatics Specialization.
 
-# Courses
-- Finding Hidden Messages in DNA (Bioinformatics I). (In Progress)
-- Genome Sequencing (Bioinformatics II). (Not Completed)
-- Comparing Genes, Proteins, and Genomes (Bioinformatics III). (Not Completed) 
-- Molecular Evolution (Bioinformatics IV). (Not Completed)
-- Genomic Data Science and Clustering (Bioinformatics V).  (Not Completed)
-- Finding Mutations in DNA and Proteins (Bioinformatics VI). (Not Completed)
-
 # Functions
 
 | Algorithm                          | Function                                       | Input                                                      | Output                                                                                                       |
